@@ -1,4 +1,4 @@
-### Base image for ONT analysis
+### Base image for Bio-analysis
 
 #### build
 
